@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+.wrapper{
+  
+   text-align: center;
+   gap: 10px;
+}
+button{
+color: blue;
+width: 200px;
+height: 50px;
+}
+img{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    bottom: 100px;
+    padding-top: 100px;
+    
+}
